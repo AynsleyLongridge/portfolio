@@ -170,6 +170,7 @@ p { font-family: 'Open Sans Condensed', sans-serif;
 .title {
     position: absolute;
     margin-top: -480px;
+    padding-left: 60px;
     margin-right: 30px;
     }
 
