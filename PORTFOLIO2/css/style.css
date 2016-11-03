@@ -575,6 +575,13 @@ only screen and (max-device-width : 599px){
 }
     
 /*----------------journal------------*/
+    
+  table#t01  {
+        font-family: 'Open Sans Condensed', sans-serif;
+        margin-bottom: 20px;
+    }  
+    
+    
     table, th, td {
     border: 1px solid black;
     font-family: 'Open Sans Condensed', sans-serif;
