@@ -201,6 +201,9 @@ div.container3 {
     margin-top: 620px;
 }
 
+div.container6 {
+    margin-top: 420px
+}
 
 /*-------------I AM A----*/
 .rw-wrapper{
@@ -571,6 +574,21 @@ only screen and (max-device-width : 599px){
 	}
 }
     
+/*----------------journal------------*/
+    table, th, td {
+    border: 1px solid black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+    
+    th {
+    text-align: left;
+        font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 3em;
+        
+}
     
 /*----------------FOOTER------------*/
     .social img {
